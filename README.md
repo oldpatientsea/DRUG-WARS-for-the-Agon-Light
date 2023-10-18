@@ -12,7 +12,7 @@ John E Dell first wrote Drug Wars in 1984 on the TRS-80 as a school assignment. 
  
 The game has spawned many variants over the decades including Jonathan Maier's rewrite for the TI-82 graphing calculator, the open source Dope Wars and various closed source derivatives for Windows, Android and IOS.
 
-[!Buy, Sell or Jet](Screenshots/buysellorjet.png)
+![Buy, Sell or Jet](Screenshots/buysellorjet.png)
 
 This particular version is an adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light. 
 
