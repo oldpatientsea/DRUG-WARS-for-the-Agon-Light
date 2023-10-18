@@ -4,7 +4,7 @@ An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the
 
 Long before GTA came Drug Wars.
 
->>     This is a game of buying, selling, and  fighting. The object of the game is to pay off your debt to the loan shark. Then, make as much money as you can in a 1 month period. If you deal too heavily  in  drugs,  you  might  run  into  the police !!  Your main drug stash will be  in the Bronx. (It's a nice neighborhood) 
+"This is a game of buying, selling, and  fighting. The object of the game is to pay off your debt to the loan shark. Then, make as much money as you can in a 1 month period. If you deal too heavily  in  drugs,  you  might  run  into  the police !!  Your main drug stash will be  in the Bronx. (It's a nice neighborhood)"
 
 John E Dell first wrote Drug Wars in 1984 on the TRS-80 as a school assignment. He got an A for the code and a concerned frown for the subject matter. Dell wrote a version on DOS afterwards and gave it to his friends, one of whom uploaded it to a BBS where its popularity grew, while Dell, unaware that this had been done, went off and pursued other paths.
  
