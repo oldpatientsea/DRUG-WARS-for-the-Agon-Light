@@ -20,7 +20,7 @@ There are slight differences in the UI, mostly to account for the different scre
 
 This game was written on and is known to work with BBC BASIC for Z80 version 1.04 on the Agon Light running MOS/VDP 1.03. The latest release also works on Agon Quark MOS/VDP Version 1.04 RC2, BBC BASIC (Agon) Version 1.06 by taking advantage of support for legacy screen modes. It also works on [the Agon Light emulator](https://github.com/tomm/fab-agon-emulator) if you do not own either an Agon Light, Agon Light 2 or Agon Console8.
 
-The game runs in the default Agon mode in 1.04 and one that should be supported by all monitors.
+The game runs in the default Agon mode in MOS/VDP 1.03 and one that should be supported by all monitors.
 
 True to the original, the game lacks certain niceties modern users have come to expect. For example, if you try to buy something that costs more than you can afford or more than you can carry, the sale fails silently and the game continues without warning you that this happened.
 
