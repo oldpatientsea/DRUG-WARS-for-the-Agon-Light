@@ -18,9 +18,9 @@ This particular version is an adaption of the DOS version of the game, converted
 
 There are slight differences in the UI, mostly to account for the different screen dimensions, and the editor in me could not resist correcting a couple of spelling mistakes, but the core gameplay and design choices are the same as in the original. One slight concession to ease of playability is that the date is shown as the day number rather than fixed dates in December 83 and January 84.
 
-This game was written on and is known to work with BBC BASIC for Z80 version 1.04 on the Agon Light running MOS/VDP 1.03. It also works on the Agon Light emulator if you do not own either an Agon Light or Agon Light 2.
+This game was written on and is known to work with BBC BASIC for Z80 version 1.04 on the Agon Light running MOS/VDP 1.03. The latest release also works on Agon Quark MOS/VDP Version 1.04 RC2, BBC BASIC (Agon) Version 1.06 by taking advantage of support for legacy screen modes. It also works on [the Agon Light emulator](https://github.com/tomm/fab-agon-emulator) if you do not own either an Agon Light, Agon Light 2 or Agon Console8.
 
-The game runs in Mode 1, the default Agon mode and one that should be supported by all monitors.
+The game runs in the default Agon mode in 1.04 and one that should be supported by all monitors.
 
 True to the original, the game lacks certain niceties modern users have come to expect. For example, if you try to buy something that costs more than you can afford or more than you can carry, the sale fails silently and the game continues without warning you that this happened.
 
